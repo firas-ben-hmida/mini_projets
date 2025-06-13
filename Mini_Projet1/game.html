@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"
+        <title>Game</title>
+        <link rel="stylesheet" href="game.css">
+
+</head>
+
+<body>
+
+        <h1 id="myH1">The goal of the game is to press Stop exactly after 5 seconds</h1>
+        <div style="display: flex; align-items: center;">
+            <h4> Select an option :</h4>
+            <select id="difficulty">
+            <option value="200" selected>Easy</option>
+            <option value="100">Medium</option>
+            <option value="50">Hard</option>
+            </select>
+        </div>
+        <div id="container">
+                <div id="display"> 00:00:00:00  </div>
+                <div id="controls">
+                        <button id="startBtn" onclick="start()">Start</button>
+                        <button id="stopBtn" onclick="stop()">Stop</button>
+                        <button id="resetBtn" onclick="reset()">Reset</button>
+                </div>
+                <p id="message"></p>
+        </div>
+        <script src="game.js"></script>
+
+</body>
+
+</html>
