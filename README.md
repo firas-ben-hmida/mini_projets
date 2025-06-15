@@ -8,5 +8,12 @@
 👉 [View Demo](https://mini-projet-2-simple-game.netlify.app/)
 ![image](https://github.com/user-attachments/assets/5b04b046-e6c2-45a2-8ba4-8ebecdfe48ef)
 ![image](https://github.com/user-attachments/assets/6f6b819c-ef9c-4fa9-85be-fbd574a5ff0e)
+# Mini_Projet 3
+## 📺 Demo  
+👉 [View Demo](https://mini-projet-3.netlify.app/)
+![Capture d'écran 2025-06-15 235436](https://github.com/user-attachments/assets/6475fef8-9129-48c0-b84d-406b1105f82b)
+![image](https://github.com/user-attachments/assets/4aa7ecee-90b4-46f7-93e8-31975a4eccc7)
+
+
 
 
