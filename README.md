@@ -17,6 +17,8 @@
 ## 📺 Demo  
 👉 [View Demo](https://mini-projet-4.netlify.app/)
 ![Capture d'écran 2025-06-16 011246](https://github.com/user-attachments/assets/b10d4036-6db9-4f5c-9129-c0894300c472)
+![image](https://github.com/user-attachments/assets/9867e841-8eb4-4792-8574-b842d13f312f)
+
 
 
 
