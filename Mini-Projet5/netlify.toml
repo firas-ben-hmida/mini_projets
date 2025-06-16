@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/chatbot.html"
+status = 200

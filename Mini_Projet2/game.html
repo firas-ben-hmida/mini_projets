@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeu des emojis</title>
+    <link rel="stylesheet" href="game.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Le but du jeu est de trouver les paires d'emojis</h1>
+        <h4 id="timer">Temps restant : 60s</h4>
+        <div class="buttons">
+        <button id="startBtn" onclick="startGame()">Start</button>
+        <button id="resetBtn" onclick="restartGame()">Restart</button>
+        </div>
+        <div id="myBox"></div>
+        <h2 id="result"></h2>
+    </div>
+    <script src="game.js"></script>
+    
+</body>
+</html>

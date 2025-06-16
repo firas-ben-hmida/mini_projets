@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+#myBox {
+    display: grid;
+    grid-template-columns: repeat(2, 150px); 
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  background-color: lightgreen;
+  color: black;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+  user-select: none;
+}
+
+#startBtn{
+    background-color: hsl(115, 100%, 40%);
+}
+#startBtn:hover{
+    background-color: hsl(115, 100%, 30%);
+}
+#resetBtn{
+    background-color: hsl(205, 90%, 60%)
+}
+#resetBtn:hover{
+    background-color: hsl(205, 90%, 50%)
+}
